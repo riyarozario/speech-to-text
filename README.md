@@ -1,0 +1,2 @@
+# speech-to-text
+This project implements a basic Speech Recognition System that converts spoken audio into text using pre-trained speech-to-text models. It utilizes Python and the SpeechRecognition library to transcribe short audio clips efficiently. The system demonstrates the practical application of AI in natural language processing and audio signal processing without training a model from scratch.
